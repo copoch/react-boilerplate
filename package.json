@@ -1,0 +1,22 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "description": "初始化React项目",
+  "main": "git st",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copoch/react-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "yulin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/copoch/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/copoch/react-boilerplate#readme"
+}
